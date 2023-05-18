@@ -1,5 +1,5 @@
 # proyecto_final
-Lineas de comandos 
+Proyecto final de graduacion 
 
 Prototipo en miro:
 https://miro.com/welcomeonboard/T2JTRElXRXRKRkdpQTlCcnI1Nmh1Q0tSZ1J4bno1VkEzbW9qT0JMRmhpMVM4UDVuYkhwVkpGaXF5YmNYR3M0enwzNDU4NzY0NTUyNTM2NTM2NTgxfDI=?share_link_id=803537967323
